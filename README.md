@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Oliveira</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Sala</h1>
 <h3 align="center">Full Stack Developer living his best life in Toronto, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glsoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="wass08" /> </p>
